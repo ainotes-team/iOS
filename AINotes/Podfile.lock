@@ -1,0 +1,20 @@
+PODS:
+  - MaLiang (2.7.0)
+  - SQift (4.1.1)
+
+DEPENDENCIES:
+  - MaLiang
+  - SQift (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - MaLiang
+    - SQift
+
+SPEC CHECKSUMS:
+  MaLiang: 9630065b5007b9ba1f067c6db462c8c56607adbb
+  SQift: 66651e934c1781e491b3efe0e8f9ce2e72d0635b
+
+PODFILE CHECKSUM: 9caf3d6d595c81a595f26564be0ff463db210c1d
+
+COCOAPODS: 1.9.1

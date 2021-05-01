@@ -1,0 +1,7 @@
+platform :ios, '11.0'
+use_frameworks!
+
+target 'AINotes' do
+    pod 'SQift', '~> 4.0'
+    pod 'MaLiang'
+end
